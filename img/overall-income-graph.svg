@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="591" height="360">
+	<rect fill="rgb(255,255,255)" stroke="none" width="591" height="360"/>
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="49" y="94" width="497" height="166" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="248.5" y1="0" x2="248.5" y2="166">
+			<stop offset="0" stop-color="rgb(144,199,189)" stop-opacity="0.90196079"/>
+			<stop offset="1" stop-color="rgb(149,231,213)" stop-opacity="0.90196079"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="url(#gradient_0)" stroke="none" transform="translate(49 94)" d="M0.0359317 166L496.938 166C496.998 146.055 497.034 122.671 496.953 107.402C496.945 105.738 491.726 105.904 491.026 105.753C457.74 98.5973 441.928 68.9394 422.633 43.9175C412.375 30.6185 401.325 16.2396 386.387 7.82553C371.035 -0.822735 321.235 -10.1745 295.252 26.7266C286.453 39.2223 278.985 51.9136 270.941 64.7126C240.595 113 225.33 120.41 216.701 122.222C196.22 126.522 177.118 104.801 169.076 97.1024C153.088 81.7947 140.951 63.1574 118.568 56.5228C95.211 49.5996 73.0856 52.1132 53.7607 66.2332C44.3954 73.0763 33.5586 85.0325 26.3796 94.0444C19.7531 102.365 12.7543 111.563 1.78614 113.994C1.35307 114.09 -0.012851 113.466 9.13508e-05 114.647C0.152413 128.359 0.118564 148.377 0.0359317 166"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="49" y="94" width="497" height="166" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="none" stroke="rgb(80,227,194)" stroke-width="1.5" stroke-miterlimit="4" transform="translate(49 94)" d="M0.0359317 166L496.938 166C496.998 146.055 497.034 122.671 496.953 107.402C496.945 105.738 491.726 105.904 491.026 105.753C457.74 98.5973 441.928 68.9394 422.633 43.9175C412.375 30.6185 401.325 16.2396 386.387 7.82553C371.035 -0.822735 321.235 -10.1745 295.252 26.7266C286.453 39.2223 278.985 51.9136 270.941 64.7126C240.595 113 225.33 120.41 216.701 122.222C196.22 126.522 177.118 104.801 169.076 97.1024C153.088 81.7947 140.951 63.1574 118.568 56.5228C95.211 49.5996 73.0856 52.1132 53.7607 66.2332C44.3954 73.0763 33.5586 85.0325 26.3796 94.0444C19.7531 102.365 12.7543 111.563 1.78614 113.994C1.35307 114.09 -0.012851 113.466 9.13508e-05 114.647C0.152413 128.359 0.118564 148.377 0.0359317 166"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="47" y="144" width="498" height="116" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="507.95999" y2="117.16">
+			<stop offset="0" stop-color="rgb(48,35,174)" stop-opacity="0.61960787"/>
+			<stop offset="0" stop-color="rgb(72,47,180)" stop-opacity="0.61960787"/>
+			<stop offset="0.014709473" stop-color="rgb(108,109,238)" stop-opacity="0.61960787"/>
+			<stop offset="1" stop-color="rgb(176,158,203)" stop-opacity="0.61960787"/>
+			<stop offset="1" stop-color="rgb(200,109,215)" stop-opacity="0.61960787"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="url(#gradient_1)" fill-opacity="0.61960787" stroke="none" transform="translate(47 144)" d="M495.416 28.1359C479.246 26.1857 464.144 15.24 449.35 9.17785C434.148 2.94837 417.582 -0.0892039 401.178 0.00199347C384.736 0.094193 368.288 3.34122 353.113 9.712C338.504 15.8443 325.285 24.5962 311.522 32.355C297.011 40.5347 281.908 46.9997 265.032 47.3444C246.962 47.7132 229.021 43.0081 211.764 38.0734C194.109 33.0234 176.76 26.807 159.962 19.3579C144.158 12.3517 128.472 4.38448 111.238 1.66559C92.0768 -1.35795 72.618 0.916973 54.723 8.47132C38.1587 15.4635 22.4998 26.9022 4.20034 28.6941C2.34869 28.8755 0.95322 29.7373 0 30.9129L0 116L497.253 116C497.253 116 498.004 72.4057 498 29.8135C498 27.1127 496.319 28.2441 495.416 28.1359"/>
+	</g>
+	<defs>
+		<clipPath id="clip_3">
+			<rect x="47" y="144" width="498" height="116" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_3)">
+		<path fill="none" stroke="rgb(108,109,238)" stroke-width="1.5" stroke-miterlimit="4" stroke-opacity="0.90196079" transform="translate(47 144)" d="M495.416 28.1359C479.246 26.1857 464.144 15.24 449.35 9.17785C434.148 2.94837 417.582 -0.0892039 401.178 0.00199347C384.736 0.094193 368.288 3.34122 353.113 9.712C338.504 15.8443 325.285 24.5962 311.522 32.355C297.011 40.5347 281.908 46.9997 265.032 47.3444C246.962 47.7132 229.021 43.0081 211.764 38.0734C194.109 33.0234 176.76 26.807 159.962 19.3579C144.158 12.3517 128.472 4.38448 111.238 1.66559C92.0768 -1.35795 72.618 0.916973 54.723 8.47132C38.1587 15.4635 22.4998 26.9022 4.20034 28.6941C2.34869 28.8755 0.95322 29.7373 0 30.9129L0 116L497.253 116C497.253 116 498.004 72.4057 498 29.8135C498 27.1127 496.319 28.2441 495.416 28.1359"/>
+	</g>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 259.291)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 226.333)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 193.374)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 160.415)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 127.457)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="rgb(164,164,165)" stroke="none" transform="translate(47.375 94.499)" d="M0 0.817L497.334 0.817L497.334 0.183L0 0.183L0 0.817Z"/>
+	<path fill="none" stroke="rgb(226,226,226)" stroke-width="0.75" stroke-miterlimit="4" transform="translate(46.7109 73.0575)" d="M0.5 185.919L0.5 0"/>
+	<defs>
+		<clipPath id="clip_4">
+			<rect x="47" y="73.871216" width="0.875" height="185.91998" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_4)">
+		<path fill="none" stroke="rgb(226,226,226)" stroke-width="0.75" stroke-miterlimit="4" transform="translate(46.875 73.8712)" d="M0.5 185.92L0.5 0"/>
+	</g>
+	<path fill="rgb(149,231,213)" fill-opacity="0.90196079" stroke="none" transform="translate(49 316)" d="M0 10.986L10.986 10.986L10.986 0L0 0L0 10.986Z"/>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(64 312)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			Nov
+	</text>
+	<path fill="rgb(108,109,238)" fill-opacity="0.90196079" stroke="none" transform="translate(141 316)" d="M0 10.986L10.986 10.986L10.986 0L0 0L0 10.986Z"/>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(156 312)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			Dec
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(48 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			0
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(137 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			100
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(232 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			200
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(329 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			300
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(429 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			400
+	</text>
+	<text fill="rgb(155,155,155)" stroke="none" transform="translate(521 266)" font-size="14" font-family="Source Sans Pro" x="0" y="13.62">
+			500
+	</text>
+	<path fill="rgb(108,109,238)" fill-opacity="0.90196079" stroke="none" transform="translate(254 179)" d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z"/>
+
+</svg>
